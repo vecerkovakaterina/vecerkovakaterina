@@ -26,12 +26,13 @@ Hey there! I'm Kateřina, and I'm a bioinformatician based at the Laboratory of 
 
 ### 🚀 Currently learning
 
+- **Long-read transcriptomics**
 - **Single-Cell Analysis**
 - **Spatial Transcriptomics**
 
 ### 👩‍🔬 Day Job
 
-I work at the Bioinformatics Core Facility of the Institute of Molecular Genetics, where I do bioinformatic analysis as a service for other research groups. What I love about my job is that I encouter various biological experiments, I get to use so many different tools for the analysis and I'm learning a lot 🧙‍♀️.
+I work at the Sequencing and Bioinformatics Core Facility of the Institute of Molecular Genetics, where I do bioinformatic analysis as a service for other research groups. What I love about my job is that I encouter various biological experiments, I get to use so many different tools for the analysis and I'm learning a lot 🧙‍♀️.
 
 ### 🎓 PhD Pursuits
 
