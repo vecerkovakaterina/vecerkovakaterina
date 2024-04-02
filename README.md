@@ -28,7 +28,9 @@ Hey there! I'm Kateřina, and I'm a bioinformatician based at the Laboratory of 
 
 - **Long-read transcriptomics**
 - **Single-Cell Analysis**
+- **Running LLMs locally on a GPU**
 - **Spatial Transcriptomics**
+
 
 ### 👩‍🔬 Day Job
 
